@@ -8,7 +8,7 @@ This repository is for showing how Git and GitHub work  <-- second change
 ## Introduction
 This is example is to show different parts of the Git repository and various commands using a web project. 
 
-Cool stuff
+Cool stuff  <--- Making my 3rd change to the code.  Hope to have a conflict. 
 
 ## Purpose
 
