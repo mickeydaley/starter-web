@@ -9,6 +9,7 @@ This repository is for showing how Git and GitHub work  <-- second change
 This is example is to show different parts of the Git repository and various commands using a web project.   Got rid of cool stuff line for 3rd change that should cause a conflict. 
 
 
+Cool stuff  <--- Making my 3rd change to the code.  Hope to have a conflict. 
 
 ## Purpose
 
