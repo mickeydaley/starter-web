@@ -6,9 +6,9 @@ Updating for emergency fix after stashing!!!
 This repository is for showing how Git and GitHub work  <-- second change
 
 ## Introduction
-This is example is to show different parts of the Git repository and various commands using a web project. 
+This is example is to show different parts of the Git repository and various commands using a web project.   Got rid of cool stuff line for 3rd change that should cause a conflict. 
 
-Cool stuff
+
 
 ## Purpose
 
